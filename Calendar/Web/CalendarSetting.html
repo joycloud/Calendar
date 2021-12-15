@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="./material-datepicker/css/material.datepicker.css">
+    <link rel="stylesheet" href="./css/CalendarSetting.css">
+    <script src="./libs/moment.min.js"></script>
+    <script src="./libs/jquery-2.1.3.min.js"></script>
+    <script src="./libs/knockout-3.2.0.js"></script>
+    <script src="./material-datepicker/js/material.datepicker.js"></script>
+</head>
+
+<body>
+    <div>
+        <div class="btn-area">
+            <input type="button" class="btn btn-info" id="btnAdd" value="Add new" />
+            <input type="button" class="btn btn-success" id="btnSave" value="Save" />
+        </div>
+        <div id="table-area">
+            <table class="table" id="tblCustomers">
+                <thead class="table-light columns">
+                    <tr>
+                        <th scope="col">No</th>
+                        <th scope="col">Title</th>
+                        <th scope="col">Remark</th>
+                        <th class="date" scope="col">Start Date</th>
+                        <th class="date" scope="col">End Date</th>
+                        <th scope="col">Open</th>
+                        <th scope="col">Delete</th>
+                    </tr>
+                </thead>
+                <tbody id="tb-items">
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <!-- <script type="text/javascript" src="./data.json?callback=getJson?callback=?"></script> -->
+    <script src="https://cdn.bootcss.com/FileSaver.js/2014-11-29/FileSaver.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="./js/CalendarSetting.js"></script>
+    
+</body>
+
+</html>

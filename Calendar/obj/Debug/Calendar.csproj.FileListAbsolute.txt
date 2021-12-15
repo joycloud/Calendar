@@ -1,0 +1,13 @@
+D:\MyGit\Calendar\Calendar\bin\Debug\Calendar.exe.config
+D:\MyGit\Calendar\Calendar\bin\Debug\Calendar.exe
+D:\MyGit\Calendar\Calendar\bin\Debug\Calendar.pdb
+D:\MyGit\Calendar\Calendar\bin\Debug\Newtonsoft.Json.dll
+D:\MyGit\Calendar\Calendar\bin\Debug\Newtonsoft.Json.xml
+D:\MyGit\Calendar\Calendar\obj\Debug\Calendar.csproj.AssemblyReference.cache
+D:\MyGit\Calendar\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+D:\MyGit\Calendar\Calendar\obj\Debug\Calendar.csproj.GenerateResource.cache
+D:\MyGit\Calendar\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+D:\MyGit\Calendar\Calendar\obj\Debug\Calendar.csproj.CopyComplete
+D:\MyGit\Calendar\Calendar\obj\Debug\Calendar.exe
+D:\MyGit\Calendar\Calendar\obj\Debug\Calendar.pdb
+D:\MyGit\Calendar\Calendar\obj\Debug\Calendar.Form1.resources
